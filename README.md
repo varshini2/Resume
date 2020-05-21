@@ -1,2 +1,10 @@
-# Resume
-This repositary contains the details about me
+# VARSHINI
+csse branch
+- it
+  - c
+  - java
+  - python
+##### tirupati
+**Source code management is easy**
+
+*Git and Github*
